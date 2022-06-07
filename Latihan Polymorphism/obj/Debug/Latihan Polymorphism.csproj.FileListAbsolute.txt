@@ -1,0 +1,6 @@
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 9\Latihan Polymorphism\Latihan Polymorphism\bin\Debug\Latihan Polymorphism.exe.config
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 9\Latihan Polymorphism\Latihan Polymorphism\obj\Debug\Latihan Polymorphism.csprojResolveAssemblyReference.cache
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 9\Latihan Polymorphism\Latihan Polymorphism\bin\Debug\Latihan Polymorphism.exe
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 9\Latihan Polymorphism\Latihan Polymorphism\bin\Debug\Latihan Polymorphism.pdb
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 9\Latihan Polymorphism\Latihan Polymorphism\obj\Debug\Latihan Polymorphism.exe
+D:\Universitas Amikom Yogyakarta\SEMESTER 2\PEMROGRAMAN\PERTEMUAN 9\Latihan Polymorphism\Latihan Polymorphism\obj\Debug\Latihan Polymorphism.pdb
